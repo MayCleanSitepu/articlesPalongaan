@@ -2,7 +2,6 @@
   {
     "tagLabel": "Verified",
     "writer": "KKN-PPM UGM 2025",
-    "tagColor": "bg-amber-200 text-amber-900",
     "title": "Hadirkan Solusi Sampah Berbasis Masyarakat: Mahasiswa KKN-PPM UGM Bentuk Bank Sampah PALAPA di Desa Palongaan",
     "description": "Upaya membangun kesadaran dan sistem pengelolaan lingkungan yang lebih baik resmi dimulai di Desa Palongaan, Kecamatan Tobadak.",
     "date": "12 Jan 2025",
@@ -12,7 +11,6 @@
   {
     "tagLabel": "Breaking News",
     "writer": "Pemdes Palongaan",
-    "tagColor": "bg-amber-200 text-amber-900",
     "title": "Pemerintah Desa Resmikan Pusat Kegiatan Masyarakat",
     "description": "Gedung ini diharapkan menjadi pusat kegiatan warga, mulai dari pelatihan keterampilan hingga rapat desa.",
     "date": "15 Jan 2025",
@@ -22,7 +20,6 @@
   {
     "tagLabel": "Event",
     "writer": "Karang Taruna Desa",
-    "tagColor": "bg-amber-200 text-amber-900",
     "title": "Festival Kuliner Palongaan Kembali Digelar",
     "description": "Acara ini akan menampilkan ragam kuliner lokal, bazar UMKM, dan pertunjukan seni dari warga desa.",
     "date": "20 Jan 2025",
@@ -32,7 +29,6 @@
   {
     "tagLabel": "Update",
     "writer": "Posyandu Desa",
-    "tagColor": "bg-amber-200 text-amber-900",
     "title": "Posyandu Palongaan Tambah Layanan Kesehatan Gratis",
     "description": "Kini Posyandu menyediakan layanan pemeriksaan kesehatan gratis setiap hari Minggu untuk seluruh warga.",
     "date": "25 Jan 2025",
@@ -40,4 +36,5 @@
     "imageSrc": "https://placehold.co/300x200/png"
   }
 ]
+
 
