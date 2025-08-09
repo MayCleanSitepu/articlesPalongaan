@@ -12,31 +12,32 @@
   {
     "tagLabel": "Breaking News",
     "writer": "Pemdes Palongaan",
-    "tagColor": "bg-red-200 text-red-900",
+    "tagColor": "bg-amber-200 text-amber-900",
     "title": "Pemerintah Desa Resmikan Pusat Kegiatan Masyarakat",
     "description": "Gedung ini diharapkan menjadi pusat kegiatan warga, mulai dari pelatihan keterampilan hingga rapat desa.",
     "date": "15 Jan 2025",
     "readTime": "3 min read",
-    "imageSrc": "/innovation.png"
+    "imageSrc": "https://placehold.co/300x200/png"
   },
   {
     "tagLabel": "Event",
     "writer": "Karang Taruna Desa",
-    "tagColor": "bg-green-200 text-green-900",
+    "tagColor": "bg-amber-200 text-amber-900",
     "title": "Festival Kuliner Palongaan Kembali Digelar",
     "description": "Acara ini akan menampilkan ragam kuliner lokal, bazar UMKM, dan pertunjukan seni dari warga desa.",
     "date": "20 Jan 2025",
     "readTime": "4 min read",
-    "imageSrc": "/kuliner.png"
+    "imageSrc": "https://placehold.co/300x200/png"
   },
   {
     "tagLabel": "Update",
     "writer": "Posyandu Desa",
-    "tagColor": "bg-blue-200 text-blue-900",
+    "tagColor": "bg-amber-200 text-amber-900",
     "title": "Posyandu Palongaan Tambah Layanan Kesehatan Gratis",
     "description": "Kini Posyandu menyediakan layanan pemeriksaan kesehatan gratis setiap hari Minggu untuk seluruh warga.",
     "date": "25 Jan 2025",
     "readTime": "2 min read",
-    "imageSrc": "/posyandu.png"
+    "imageSrc": "https://placehold.co/300x200/png"
   }
 ]
+
