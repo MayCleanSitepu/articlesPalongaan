@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "tagLabel": "Verified",
     "writer": "KKN-PPM UGM 2025",
     "title": "Hadirkan Solusi Sampah Berbasis Masyarakat: Mahasiswa KKN-PPM UGM Bentuk Bank Sampah PALAPA di Desa Palongaan",
@@ -10,6 +11,7 @@
     "imageSrc": "/agendaPic.png"
   },
   {
+    "id": 2,
     "tagLabel": "Breaking News",
     "writer": "Pemdes Palongaan",
     "title": "Pemerintah Desa Resmikan Pusat Kegiatan Masyarakat",
@@ -20,6 +22,7 @@
     "imageSrc": "https://placehold.co/300x200/png"
   },
   {
+    "id": 3,
     "tagLabel": "Event",
     "writer": "Karang Taruna Desa",
     "title": "Festival Kuliner Palongaan Kembali Digelar",
@@ -30,6 +33,7 @@
     "imageSrc": "https://placehold.co/300x200/png"
   },
   {
+    "id": 4,
     "tagLabel": "Update",
     "writer": "Posyandu Desa",
     "title": "Posyandu Palongaan Tambah Layanan Kesehatan Gratis",
@@ -40,6 +44,7 @@
     "imageSrc": "https://placehold.co/300x200/png"
   }
 ]
+
 
 
 
